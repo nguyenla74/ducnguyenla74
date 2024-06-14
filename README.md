@@ -1,10 +1,24 @@
-- 👋 Hi, I’m Nguyen!
-- 👀 I’m interested in IT, cybersecurity and finance. 
-- 🌱 I'm honing my skills through labs here in GitHub. 
-- 💞️ I’m looking to collaborate on coding knowledge from exprerienced cyber professionals. 
-- 📫 How to reach me: @nguyenla74 on GitHub.
+<h1>Hi, I'm Nguyen! <br/><a href="https://github.com/nguyenla74">IT</a>, <a href="https://www.linkedin.com/in/ducnguyenla/">Cybersecurity </a><a >Professional</a></h1>
 
-<!---
-nguyenla74/nguyenla74 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h2>👨‍💻 IT Projects:</h2>
+
+- <b>Penetration Assessment and Remediation Plan</b>
+
+<h2> 🤳 Connect with me:</h2>
+
+LinkedIn: https://linkedin.com/in/ducnguyenla
+
+<!--
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
