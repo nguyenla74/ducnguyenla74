@@ -1,6 +1,6 @@
-<h1>Hi, I'm Nguyen! <br/><a href="https://github.com/nguyenla74">IT</a>, <a href="https://www.linkedin.com/in/ducnguyenla/">Cybersecurity </a><a >Professional</a></h1>
+<h1>Hi, I'm Nguyen! <br/><a>IT</a> <a >and Cybersecurity Professional</a><a ></a></h1>
 
-<h2>👨‍💻 IT Projects:</h2>
+<h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Penetration Assessment and Remediation Plan</b>
 
