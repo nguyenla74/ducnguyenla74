@@ -11,6 +11,11 @@
   - Remediation Plan
   - Executive Summary (separate PDF file)
 
+<h2>👨‍💻 IT Projects:</h2>
+
+<b>[Active Directory](https://github.com/nguyenla74/ActiveDirectory)</b>
+  - How to Add Users in Active Directory (and How to Find Them)
+
 <h2>🤳 Connect with me:</h2>
 
 <b>[LinkedIn](https://linkedin.com/in/ducnguyenla)</b>
