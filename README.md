@@ -15,6 +15,8 @@
 
 <b>[Active Directory](https://github.com/nguyenla74/ActiveDirectory)</b>
   - How to Add Users in Active Directory (and How to Find Them)
+<b>[Remote Desktop](https://github.com/nguyenla74/RemoteDesktop)</b>
+  - How to Connect and Take Control of a Computer Using Remote Desktop
 
 <h2>🤳 Connect with me:</h2>
 
