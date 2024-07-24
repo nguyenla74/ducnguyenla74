@@ -19,13 +19,14 @@
 <b>[Remote Desktop](https://github.com/nguyenla74/RemoteDesktop)</b>
   - How to Connect and Take Control of a Computer Using Remote Desktop
 
+<b>[Software Deployment](https://github.com/nguyenla74/SoftwareDeployment)</b>
+  - How to Deploy a Software Using Group Policy
+
 <h2>🤳 Connect with me:</h2>
 
 <b>[LinkedIn](https://linkedin.com/in/ducnguyenla)</b>
 
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
