@@ -1,4 +1,4 @@
-<h1>Hi, I'm Duc-Nguyen! <br/>
+<h1>Hi, I'm Nguyen! <br/>
   
 <a>IT</a> <a >and Cybersecurity Professional</a><a ></a></h1>
 
@@ -25,7 +25,7 @@
 <h2>🤳 Connect with me:</h2>
 
 <b>[LinkedIn](https://linkedin.com/in/ducnguyenla)</b>
-<b>[YouTube](https://www.youtube.com/watch?v=D5mKZojzIm0)</b>
+<b>[YouTube](https://www.youtube.com/@NguyenLaTech)</b>
 <!--
 Here are some ideas to get you started:
 
