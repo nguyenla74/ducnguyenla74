@@ -25,6 +25,7 @@
 <h2>🤳 Connect with me:</h2>
 
 <b>[LinkedIn](https://linkedin.com/in/ducnguyenla)</b>
+
 <b>[YouTube](https://www.youtube.com/@NguyenLaTech)</b>
 <!--
 Here are some ideas to get you started:
